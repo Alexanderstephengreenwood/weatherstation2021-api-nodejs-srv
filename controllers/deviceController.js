@@ -2,7 +2,7 @@ var Device = require('../models/device');
 
 // Display all devices by id
 exports.device_list = function(req, res) {
-    res.send('NOT IMPLEMENTED: device list');
+    res.send('NOT IMPLEMENTED: device list hello world');
 };
 
 // Display detail page for a specific Author.
