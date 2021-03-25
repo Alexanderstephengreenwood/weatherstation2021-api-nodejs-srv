@@ -20,3 +20,5 @@ Data elements planned, Giger counter, Air particules, gas, wind speed/wind direc
 Devices in use are Arduino mkr1010, mkr1300, mkr1000, UNO, DUE. Raspberry Pi 3, Microsoft Azure Sphere
 
 Sensors: Boesch BME680, DHT11, DHT22
+
+Transport layers Wifi and LoRaWan
