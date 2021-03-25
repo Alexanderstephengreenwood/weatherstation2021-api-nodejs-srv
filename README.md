@@ -1,7 +1,5 @@
 # weatherstation2021-api-nodejs-srv
 
-Testing a change with git local to remote
-
 This is a tentative in creating a REST API server with Nodes JS, Express and MongoDB in order to;
 - Receive environment data posts from IoT devices
 - Serve the data for RESTfull requests in order to build data dashboards
